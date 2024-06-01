@@ -1,0 +1,100 @@
+Gra 1: 1 zielony, 1 niebieski, 1 czerwony; 1 zielony, 8 czerwony, 7 niebieski; 6 niebieski, 10 czerwony; 4 czerwony, 9 niebieski, 2 zielony; 1 zielony, 3 niebieski; 4 czerwony, 1 zielony, 10 niebieski
+Gra 2: 9 czerwony, 7 zielony, 3 niebieskie; 15 zielony, 2 niebieski, 5 czerwony; 10 czerwony, 3 niebieski, 13 zielony
+Gra 3: 3 czerwony, 1 niebieski, 4 zielony; 6 czerwony, 3 zielony, 2 niebieskie; 6 czerwony, 16 niebieski, 1 zielony
+Gra 4: 2 niebieski, 2 zielony, 19 czerwony; 3 niebieski, 11 czerwony, 16 zielony; 18 niebieski, 13 zielony, 20 czerwony; 18 czerwony, 12 niebieski, 16 zielony; 8 zielony, 16 niebieski, 16 czerwony
+Gra 5: 8 zielony, 1 czerwona, 12 niebieski; 10 zielony, 6 czerwony, 13 niebieski; 1 czerwony, 3 niebieski, 6 zielony; 14 niebieski, 2 czerwony, 7 zielony
+Gra 6: 1 czerwona; 1 niebieski; 2 zielony, 1 niebieski; 1 czerwony, 3 niebieskie; 1 czerwony, 2 niebieski, 2 zielony; 1 zielony, 7 niebieski, 1 czerwony
+Gra 7: 2 czerwony, 1 niebieski, 5 zielony; 5 zielony, 1 czerwony; 3 czerwony, 7 niebieski; 8 niebieski, 1 czerwony, 4 zielony
+Gra 8: 6 zielony, 4 niebieski; 10 zielony, 7 niebieski; 5 niebieski; 1 czerwony, 7 niebieski; 11 zielony, 1 czerwony
+Gra 9: 2 zielony, 2 niebieski; 8 czerwony, 5 niebieski, 6 zielony; 11 zielony, 6 niebieski, 8 czerwony; 4 niebieski, 3 zielony, 8 czerwony; 2 zielony, 10 czerwony, 5 niebieski
+Gra 10: 2 niebieski, 8 zielony, 2 czerwony; 10 niebieski, 3 zielony; 12 niebieski, 1 zielony, 2 czerwony; 9 zielony, 2 czerwony; 3 zielony, 2 czerwony, 5 niebieski
+Gra 11: 12 czerwony, 1 zielony, 1 niebieski; 7 zielony, 1 czerwony; 2 niebieski, 1 czerwony, 3 zielony; 15 zielony, 8 czerwony
+Gra 12: 4 czerwony, 10 zielony, 4 niebieski; 3 czerwony, 10 niebieski, 18 zielony; 5 czerwony, 2 niebieski, 18 zielony; 8 niebieski, 16 zielony, 2 czerwony
+Gra 13: 3 zielony, 1 niebieski, 8 czerwony; 8 niebieski, 2 zielony, 6 czerwony; 6 niebieski, 3 zielony, 11 czerwony; 2 czerwony; 1 niebieski; 1 niebieski, 5 czerwony, 2 zielony; 6 czerwony
+Gra 14: 3 niebieski, 15 zielony, 10 czerwony; 7 zielony, 6 czerwony, 6 niebieski; 8 czerwony, 13 zielony, 4 zielony; 4 zielony, 1 niebieski, 9 czerwony; 9 czerwony, 7 niebieski
+Gra 15: 8 zielony, 9 niebieski, 4 czerwony; 8 niebieski, 4 zielony, 4 czerwony; 8 zielony, 7 niebieski, 10 czerwony
+Gra 16: 12 czerwony, 8 niebieski, 2 zielony; 4 zielony, 10 czerwony, 4 niebieski; 9 zielony, 4 niebieski, 5 czerwony; 7 czerwony, 1 niebieski
+Gra 17: 1 niebieski, 4 czerwony, 6 zielony; 1 niebieski; 6 czerwony, 8 niebieski, 10 zielony; 2 niebieski, 2 czerwony, 3 zielony; 8 zielony, 14 czerwony, 6 niebieski
+Gra 18: 5 niebieski, 1 zielony, 5 czerwony; 1 zielony, 11 niebieski; 3 zielony, 18 czerwony, 8 niebieski
+Gra 19: 2 niebieski, 2 czerwony, 16 zielony; 5 niebieski, 2 czerwony, 17 zielony; 10 zielony, 6 niebieski; 2 niebieski, 11 zielony; 15 zielony, 3 niebieski, 5 czerwony; 18 zielony, 8 czerwony
+Gra 20: 7 czerwony, 6 zielony, 3 niebieski; 7 czerwony, 16 zielony; 1 niebieski, 6 zielony; 1 zielony, 7 czerwony
+Gra 21: 10 czerwony, 10 niebieskich; 16 zielony, 4 niebieski, 7 czerwony; 2 czerwony, 9 niebieski, 11 zielony
+Gra 22: 12 zielony, 7 czerwony, 2 niebieski; 6 niebieski, 3 czerwony, 10 zielony; 11 czerwony, 12 zielony; 8 czerwony, 3 zielony, 3 niebieski; 3 czerwony, 4 zielony, 4 zielony, 7 niebieski
+Gra 23: 7 czerwony, 9 niebieski; 5 czerwony, 1 zielony, 4 niebieskie; 8 zielony, 9 niebieski, 10 czerwony; 8 zielony, 9 czerwony, 11 niebieski
+Gra 24: 4 niebieski, 2 czerwony, 15 zielony; 1 zielony, 4 niebieski; 7 zielony, 2 niebieski
+Gra 25: 12 czerwona, 12 zielona; 11 czerwony, 5 niebieski, 15 zielony; 15 zielony, 5 czerwony, 3 zielony; 15 zielony, 6 niebieski, 10 czerwony; 3 niebieski, 1 zielony, 5 czerwony
+Gra 26: 7 czerwony, 18 zielony, 6 niebieski; 3 czerwony, 2 zielony, 7 niebieski; 1 czerwony, 1 zielony, 1 niebieski; 16 zielony, 5 czerwony, 2 niebieski; 5 niebieski, 4 czerwony; 12 czerwony, 2 niebieski
+Gra 27: 1 niebieski, 5 czerwony, 5 zielony; 11 niebieski, 7 czerwony, 5 zielony; 8 niebieski, 7 zielony, 4 czerwony; 3 zielony, 3 niebieski; 14 zielony, 1 niebieski
+Gra 28: 12 zielony, 1 czerwony, 1 niebieski; 17 zielony, 1 czerwony, 1 niebieski; 1 czerwony, 1 niebieski, 15 zielony
+Gra 29: 15 zielony, 10 niebieski; 6 zielony, 5 niebieski, 2 czerwone; 19 zielony, 5 niebieski
+Gra 30: 10 czerwona, 13 zielony, 2 niebieskie; 5 niebieski, 14 zielony, 1 czerwony; 9 zielony, 14 czerwony, 4 niebieski; 14 niebieski, 14 zielony, 17 czerwony; 15 niebieski, 9 zielony, 16 czerwony
+Gra 31: 6 zielony, 1 niebieski, 8 czerwony; 12 czerwony, 8 zielony; 5 czerwony, 8 zielony; 9 zielony, 11 czerwony
+Gra 32: 6 czerwony, 7 zielony; 12 zielony, 1 niebieski, 2 czerwony; 2 czerwony, 3 zielony; 4 czerwony, 13 zielony; 7 czerwony, 9 zielony
+Gra 33: 3 czerwona, 7 niebieski, 10 zielony; 4 niebieski, 3 czerwony, 15 zielony; 6 czerwony, 7 niebieski, 18 zielony; 5 czerwony, 10 zielony; 2 niebieski; 2 niebieski, 6 zielony, 10 zielony; 7 niebieski, 7 zielony, 6 czerwony
+Gra 34: 1 czerwona, 6 niebieski, 3 zielony; 2 zielony, 13 niebieski, 2 czerwony; 2 czerwony, 7 zielony, 5 niebieski; 4 czerwony, 5 zielony; 3 czerwony, 4 niebieski; 3 czerwony, 4 niebieski, 3 zielony, 3 zielony
+Gra 35: 3 czerwony, 4 niebieskie; 3 zielony, 6 czerwony, 2 niebieskie; 8 zielony, 4 niebieski, 3 czerwony; 11 czerwony, 4 niebieski, 3 zielony; 5 zielony, 1 niebieski, 6 czerwony; 8 czerwony, 7 zielony
+Gra 36: 2 niebieski, 8 czerwony, 2 zielony; 11 zielony, 14 czerwony; 14 czerwony, 1 zielony; 7 zielony, 2 niebieski, 11 czerwony
+Gra 37: 2 zielony, 10 czerwony; 1 zielony, 5 czerwony; 5 czerwony, 11 zielony; 1 niebieski, 11 zielony, 2 czerwone
+Gra 38: 11 czerwony, 1 zielony, 11 niebieski; 9 czerwony, 1 zielony; 5 czerwony, 2 niebieski, 1 zielony; 2 czerwony, 6 niebieski
+Gra 39: 3 czerwona; 2 zielony, 18 czerwony, 2 niebieski; 2 zielony; 6 czerwony, 2 zielony; 12 czerwony; 3 zielony, 11 czerwony
+Gra 40: 3 niebieski, 4 czerwony; 2 czerwone; 7 czerwony, 1 zielony, 2 niebieski; 1 zielony, 1 zielony; 5 zielony; 2 zielony, 2 czerwony, 1 niebieski
+Gra 41: 5 zielony, 3 niebieski, 10 czerwony; 6 zielony, 3 niebieski, 12 czerwony; 2 niebieski, 5 zielony, 7 czerwony; 2 niebieski, 3 zielony, 2 czerwony
+Gra 42: 11 zielony, 1 czerwona; 6 zielony, 4 czerwony; 4 czerwony, 4 niebieski, 7 zielony; 11 zielony, 5 czerwony, 5 niebieski
+Gra 43: 1 niebieski; 6 zielony, 16 niebieski; 7 zielony, 1 czerwony; 2 czerwony, 15 zielony, 7 niebieski; 2 czerwony, 3 niebieski; 3 czerwony, 14 niebieski
+Gra 44: 3 zielony, 1 czerwony, 5 niebieski; 9 niebieski, 1 czerwony; 14 niebieski; 7 niebieski, 1 zielony, 2 czerwony
+Gra 45: 1 niebieski, 1 czerwona; 1 niebieski, 1 czerwony; 3 zielony, 1 zielony, 1 niebieski
+Gra 46: 1 zielony, 8 czerwony, 2 niebieski; 13 niebieski, 7 czerwony, 2 zielony; 3 czerwony, 4 niebieskie; 2 zielone, 18 niebieskie, 5 czerwone; 4 czerwone, 9 niebieskie; 3 czerwone, 7 niebieskie, 1 zielony
+Gra 47: 8 niebieski, 1 czerwona, 8 zielony; 2 czerwony, 6 zielony, 1 zielony; 2 zielony, 6 niebieski, 5 czerwony; 6 niebieski, 6 czerwony, 6 zielony; 6 zielony, 9 niebieski, 7 czerwony
+Gra 48: 5 niebieski, 14 zielony, 8 czerwony; 7 niebieski, 10 zielony, 7 czerwony; 9 zielony, 9 niebieski, 6 czerwony; 9 zielony, 5 niebieski, 17 czerwony
+Gra 49: 10 zielony, 6 niebieski, 2 czerwony; 3 niebieski, 5 zielony, 4 czerwony; 8 czerwony, 8 niebieski, 11 zielony; 5 czerwony, 6 zielony, 5 niebieski
+Gra 50: 3 czerwony, 2 zielony; 1 czerwony, 8 niebieski; 2 czerwony, 2 zielony, 3 niebieski
+Gra 51: 4 zielony, 8 czerwony; 8 czerwony, 5 niebieski, 13 zielony; 3 czerwony, 11 niebieski, 14 zielony; 5 niebieski, 11 zielony, 3 czerwony; 5 czerwony, 9 niebieski, 11 zielony; 6 zielony, 4 czerwony, 12 niebieski
+Gra 52: 2 zielony, 1 czerwony, 1 niebieski; 3 niebieski, 2 zielony, 2 czerwony; 1 zielony, 3 niebieski, 4 niebieski; 2 niebieskie; 8 czerwony, 2 niebieski, 2 niebieskie
+Gra 53: 18 niebieski, 4 zielony, 9 czerwony; 6 niebieski, 9 zielony; 14 niebieski, 9 zielony, 9 czerwony
+Gra 54: 2 czerwona, 7 niebieski, 3 zielony; 6 zielony, 3 czerwony, 2 niebieskie; 1 niebieski, 3 zielony, 3 czerwony; 2 zielony, 4 czerwony, 9 niebieski
+Gra 55: 3 zielony, 6 niebieski; 6 zielony, 8 niebieski, 6 czerwony; 5 zielony, 3 czerwony; 4 niebieski, 8 zielony, 1 czerwony; 1 czerwony, 2 niebieski
+Gra 56: 4 zielony; 2 niebieski, 4 zielony, 1 czerwony; 3 niebieski, 6 zielony
+Gra 57: 15 czerwony, 3 zielony; 15 czerwony, 1 niebieski, 2 zielony; 15 czerwony, 1 zielony
+Gra 58: 1 czerwona, 5 niebieski; 5 zielony; 6 zielony, 8 niebieski, 2 czerwony; 1 czerwony, 6 niebieski, 6 zielony
+Gra 59: 3 zielony, 8 niebieski, 5 czerwony; 1 zielony, 12 niebieski, 4 czerwony; 2 zielony, 18 niebieski; 2 czerwony, 4 zielony; 16 niebieski, 3 czerwony, 1 zielony
+Gra 60: 7 zielony, 6 niebieski, 2 czerwony; 2 czerwony, 4 zielony; 11 zielony, 5 zielony; 4 zielony, 4 niebieski, 3 czerwony; 2 czerwony, 7 zielony, 8 zielony; 6 zielony, 4 czerwony, 1 niebieski
+Gra 61: 6 zielony, 6 czerwony; 1 zielony, 3 niebieski; 6 zielony, 1 czerwony, 7 niebieski; 5 czerwony, 19 zielony, 7 niebieski
+Gra 62: 3 czerwony, 4 zielony; 2 czerwony, 4 niebieski; 1 czerwony, 13 niebieski, 5 zielony
+Gra 63: 2 czerwony, 13 zielony, 4 niebieski; 10 zielony, 5 czerwony, 10 niebieski; 13 niebieski, 6 czerwony, 3 zielony
+Gra 64: 5 niebieski, 2 zielony; 1 niebieski, 1 czerwony, 6 zielony; 3 niebieski, 11 zielony; 2 niebieski, 8 zielony, 1 czerwony
+Gra 65: 4 czerwony, 5 zielony, 2 niebieski; 2 niebieski, 4 czerwony, 1 zielony; 3 czerwony, 4 zielony, 4 niebieskie; 6 czerwony; 3 niebieski; 3 niebieski, 2 zielony, 5 czerwony; 2 zielony, 2 zielony, 2 zielony, 3 czerwony
+Gra 66: 14 czerwony, 17 zielony, 1 niebieski; 2 czerwony, 12 zielony, 2 niebieski; 1 niebieski, 4 zielony, 14 czerwony
+Gra 67: 7 zielony, 4 czerwony, 10 niebieski; 11 niebieski, 4 zielony; 7 zielony, 2 czerwony, 3 niebieski; 11 niebieski, 3 czerwony, 9 zielony
+Gra 68: 5 niebieski, 4 czerwony; 10 niebieski, 8 zielony, 5 czerwony; 1 zielony, 1 czerwony, 10 niebieski
+Gra 69: 1 czerwona, 15 niebieski, 2 zielony; 16 niebieski, 15 zielony; 1 czerwona, 15 zielony, 14 niebieski; 2 czerwony, 5 zielony; 5 zielony, 1 zielony, 1 czerwony, 13 niebieski; 2 niebieski, 16 zielony
+Gra 70: 1 czerwona, 2 niebieski, 9 zielony; 2 zielony, 1 czerwony; 7 zielony, 4 niebieski
+Gra 71: 5 niebieski, 1 zielony; 2 zielony, 5 niebieski; 2 niebieski, 1 czerwony, 1 zielony; 1 czerwony, 5 niebieski; 1 czerwony
+Gra 72: 5 zielony, 5 niebieski; 8 zielony, 3 czerwony; 7 niebieski, 8 zielony
+Gra 73: 1 zielony, 4 czerwony, 3 niebieskie; 5 zielony, 5 niebieski, 3 czerwony; 8 niebieski, 7 zielony, 1 czerwony; 3 niebieski, 3 czerwony, 9 zielony; 13 zielony, 2 czerwony, 10 niebieski
+Gra 74: 2 czerwony, 4 zielony, 5 niebieski; 3 niebieski, 6 zielony, 4 czerwony; 2 niebieski, 6 zielony, 5 czerwony
+Gra 75: 10 czerwony, 20 zielony, 14 niebieski; 9 niebieski, 15 zielony, 17 czerwony; 8 zielony, 18 niebieski, 6 czerwony
+Gra 76: 7 zielony, 1 czerwony, 9 niebieski; 1 zielony, 3 czerwony; 3 czerwony, 3 zielony; 4 niebieski, 20 czerwony, 9 zielony; 12 czerwony, 7 niebieski
+Gra 77: 1 niebieski, 9 zielony, 7 czerwony; 5 zielony, 7 czerwony; 4 czerwony, 1 zielony, 1 zielony; 6 zielony, 3 czerwony, 3 niebieski; 3 niebieski, 5 zielony, 18 czerwony
+Gra 78: 11 czerwony, 4 zielony, 4 niebieski; 12 czerwony, 3 zielony, 4 niebieski; 11 czerwony, 4 zielony, 13 niebieski; 8 czerwony, 5 niebieski, 6 zielony
+Gra 79: 1 niebieski, 16 czerwony; 9 czerwony, 2 zielony, 2 niebieski; 2 niebieski, 12 czerwony; 3 zielony, 12 czerwony
+Gra 80: 2 niebieski, 3 zielony, 5 czerwony; 5 czerwony, 8 niebieski, 3 zielony; 10 niebieski, 8 czerwony, 8 zielony; 5 niebieski, 4 czerwony
+Gra 81: 1 zielony, 3 czerwony; 6 niebieski; 6 czerwony, 1 zielony, 8 niebieski; 1 zielony, 8 niebieski
+Gra 82: 4 niebieski, 2 czerwony; 7 niebieski, 10 zielony, 3 czerwony; 7 zielony, 1 czerwony
+Gra 83: 12 niebieski, 9 zielony; 10 zielony, 7 niebieski; 7 zielony, 1 czerwony, 12 niebieski; 5 zielony, 12 niebieski
+Gra 84: 1 zielony, 2 niebieski, 1 czerwona; 2 zielony, 9 czerwony; 14 czerwony, 1 niebieski, 2 zielony; 2 zielony, 9 czerwony; 4 niebieski, 2 zielony, 9 czerwony
+Gra 85: 1 niebieski, 8 czerwony, 8 zielony; 1 zielony, 4 czerwony, 4 niebieski; 8 czerwony, 7 zielony, 18 niebieski; 5 zielony, 3 czerwony, 15 niebieski; 11 niebieski, 1 czerwony, 4 zielony; 4 zielony, 3 czerwony, 1 niebieski
+Gra 86: 14 zielony, 11 czerwony, 14 niebieski; 9 zielony, 14 niebieski; 12 czerwony, 4 zielony, 13 niebieski; 14 zielony, 9 niebieski, 2 czerwony; 5 czerwony, 17 zielony, 1 niebieski
+Gra 87: 3 czerwona, 3 zielony, 7 niebieski; 3 zielony, 2 czerwony, 20 niebieski; 12 zielony, 9 niebieski; 3 niebieski, 3 czerwony, 8 zielony, 9 niebieski, 9 niebieski, 2 czerwony
+Gra 88: 4 zielony, 1 czerwona, 4 niebieskie; 1 zielony, 3 czerwony, 1 niebieski; 2 zielony, 3 niebieski, 3 czerwony; 5 zielony, 1 niebieski
+Gra 89: 8 niebieski, 1 czerwona; 4 czerwony, 6 niebieski, 1 zielony; 12 niebieski, 3 czerwony; 1 czerwony, 4 niebieski; 3 czerwony, 5 niebieski, 1 zielony; 7 czerwony, 7 niebieski
+Gra 90: 3 czerwona, 2 zielona; 4 niebieski, 13 czerwony; 1 niebieski, 7 czerwony
+Gra 91: 8 niebieski, 2 czerwony, 9 zielony; 5 niebieski, 17 zielony; 2 zielony, 7 niebieski, 1 czerwony; 8 niebieski, 11 zielony, 3 czerwony; 2 czerwony, 5 niebieski, 1 zielony
+Gra 92: 8 czerwony, 11 niebieski; 7 zielony, 9 niebieski, 2 czerwony; 6 czerwony, 3 zielony; 4 zielony; 4 zielony, 8 niebieski, 2 czerwony; 9 niebieski, 12 zielony, 8 czerwony; 6 czerwony, 14 niebieski
+Gra 93: 4 niebieski, 1 czerwony, 3 zielony; 7 zielony, 1 czerwony, 3 niebieski; 6 zielony, 1 czerwony, 3 niebieski; 3 niebieski, 10 zielony, 1 czerwony; 3 niebieski, 7 zielony
+Gra 94: 11 czerwony, 13 zielony, 3 niebieski; 4 zielony, 15 czerwony, 5 niebieski; 1 czerwony, 7 zielony
+Gra 95: 4 zielony, 10 niebieski, 6 czerwony; 4 zielony, 9 niebieski; 8 niebieski, 9 czerwony, 5 zielony; 7 zielony; 12 niebieski; 12 niebieski, 8 zielony, 3 czerwony; 2 zielony, 5 czerwony
+Gra 96: 2 czerwony, 2 zielony, 1 niebieski; 1 czerwony, 4 zielony; 1 zielony
+Gra 97: 4 czerwona, 5 zielony; 5 niebieski, 3 czerwony; 8 niebieski, 2 zielony, 1 czerwony
+Gra 98: 1 niebieski; 2 zielony, 1 czerwony; 5 czerwony, 2 zielony; 4 czerwony, 1 zielony; 2 czerwony, 2 zielony, 2 niebieski
+Gra 99: 6 niebieski, 5 czerwony, 2 zielony; 9 czerwony; 2 zielony, 2 czerwony, 5 niebieski; 10 niebieski, 2 zielony; 11 niebieski, 1 zielony, 4 czerwony
+Gra 100: 1 niebieski, 13 zielony, 14 czerwony; 11 zielony, 11 niebieski, 7 czerwony; 2 czerwony, 2 niebieski; 10 niebieski, 10 niebieski, 15 czerwony
